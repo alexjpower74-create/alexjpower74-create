@@ -18,6 +18,7 @@ I build and ship production software with AI coding agents as my primary toolset
 | | |
 |---|---|
 | **[receipts.alexjpower74.workers.dev](https://receipts.alexjpower74.workers.dev)** | Receipts, above. React + Cloudflare Worker + D1, Claude tool use, Playwright on Chromium and WebKit. [Source](https://github.com/alexjpower74-create/receipts). |
+| **[binder-app.alexjpower74.workers.dev](https://binder-app.alexjpower74.workers.dev/)** | Binder: ask your documents; every sentence of the answer cites the page and a verbatim quote, with an eval set that plants a lie and must fail, and an MCP endpoint. [Source](https://github.com/alexjpower74-create/binder). |
 | **[next-up-app.alexjpower74.workers.dev](https://next-up-app.alexjpower74.workers.dev/?p=sample-barber)** | Next Up: a walk-in queue for any waiting room, with a wall display at `/wall/`. Cloudflare Worker + D1, Playwright suite. [Source](https://github.com/alexjpower74-create/next-up). |
 | **[shop-board.alexjpower74.workers.dev](https://shop-board.alexjpower74.workers.dev)** | Shop Board: a real-time multi-bay appointment board. Durable Object sync, presence, drag and drop with real pointer input, jobs that block their duration per bay, offline queue, PWA. 245 unit tests, 128 browser tests, and an adversarial suite that found six real bugs before release. [Source](https://github.com/alexjpower74-create/shop-board). |
 | **[apcosoftwaretools.ca](https://apcosoftwaretools.ca)** | Company site. Vite + React, GSAP/Lenis motion, one R3F background, 116-test Playwright suite across Chromium and WebKit. |
@@ -25,6 +26,8 @@ I build and ship production software with AI coding agents as my primary toolset
 | **[apco-app.pages.dev](https://apco-app.pages.dev)** | Customer app for a recycling depot, installed as a PWA. Real people, real money flow (e-Transfer requests), Worker-backed email. |
 
 <a href="https://shop-board.alexjpower74.workers.dev"><img src="img/shop-board-live.png" width="820" alt="Shop Board: all bays for one day, jobs spanning their duration"></a>
+
+<a href="https://binder-app.alexjpower74.workers.dev/"><img src="img/binder.png" width="820" alt="Binder: cited answers from your documents"></a>
 
 <a href="https://next-up-app.alexjpower74.workers.dev/?p=sample-barber"><img src="img/next-up.png" width="820" alt="Next Up: walk-in queue"></a>
 
