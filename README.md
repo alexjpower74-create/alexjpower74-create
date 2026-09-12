@@ -20,7 +20,10 @@ I build and ship production software with AI coding agents as my primary toolset
 | **[receipts.alexjpower74.workers.dev](https://receipts.alexjpower74.workers.dev)** | Receipts, above. React + Cloudflare Worker + D1, Claude tool use, Playwright on Chromium and WebKit. [Source](https://github.com/alexjpower74-create/receipts). |
 | **[shop-board.alexjpower74.workers.dev](https://shop-board.alexjpower74.workers.dev)** | Shop Board: the paper appointment sheet as a real-time board. Durable Object sync, presence, drag and drop with real pointer input, offline queue, PWA. [Source](https://github.com/alexjpower74-create/shop-board). |
 | **[apcosoftwaretools.ca](https://apcosoftwaretools.ca)** | Company site. Vite + React, GSAP/Lenis motion, one R3F background, 116-test Playwright suite across Chromium and WebKit. |
+| **[apco-recycling.pages.dev](https://apco-recycling.pages.dev)** | APCO Recycling: the depot's site as one WebGL world. The page orbits a branded aluminium can and descends a spine of crushed cans, each section docked onto a glass panel in the scene. R3F, GSAP, Lenis, Blender-built geometry, twelve Playwright harnesses driven with real wheel input across Chromium, WebKit and Firefox, a11y-clean, no-WebGL fallback. Built by four Claude Code sessions in worktrees. |
 | **[apco-app.pages.dev](https://apco-app.pages.dev)** | Customer app for a recycling depot, installed as a PWA. Real people, real money flow (e-Transfer requests), Worker-backed email. |
+
+<a href="https://apco-recycling.pages.dev"><img src="img/apco-recycling.png" width="820" alt="APCO Recycling: the can, the spine of crushed cans and a docked glass panel"></a>
 
 <p>
   <img src="img/apco-software-tools.png" width="640" alt="apcosoftwaretools.ca hero">
