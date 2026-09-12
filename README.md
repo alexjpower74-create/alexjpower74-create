@@ -2,7 +2,9 @@
 
 I build and ship production software with AI coding agents as my primary toolset, from a bottle depot in Newfoundland that I also run. Claude Code daily, Codex alongside, several sessions in parallel, split by file ownership, cross-reviewed, and proven with test harnesses where every green check has to show it can go red.
 
-**Now:** [Receipts](https://github.com/alexjpower74-create/receipts): interview transcripts → themes and answers where every claim cites a verbatim quote, or is visibly dropped. Live demo, negative-control evals in CI, MCP server. *(link goes live with the repo)*
+**Now:** [Receipts](https://github.com/alexjpower74-create/receipts): interview transcripts → themes and answers where every claim cites a verbatim quote, or is visibly dropped. [Live demo](https://receipts.alexjpower74.workers.dev), negative-control evals in CI, MCP server. Built in one day by a crew of three Claude Code sessions under rig.
+
+<a href="https://receipts.alexjpower74.workers.dev"><img src="img/receipts-live.png" width="820" alt="Receipts: themes with verbatim quotes and the Dropped panel"></a>
 
 ## Open source
 
@@ -15,6 +17,8 @@ I build and ship production software with AI coding agents as my primary toolset
 
 | | |
 |---|---|
+| **[receipts.alexjpower74.workers.dev](https://receipts.alexjpower74.workers.dev)** | Receipts, above. React + Cloudflare Worker + D1, Claude tool use, Playwright on Chromium and WebKit. [Source](https://github.com/alexjpower74-create/receipts). |
+| **[shop-board.alexjpower74.workers.dev](https://shop-board.alexjpower74.workers.dev)** | Shop Board: the paper appointment sheet as a real-time board. Durable Object sync, presence, drag and drop with real pointer input, offline queue, PWA. [Source](https://github.com/alexjpower74-create/shop-board). |
 | **[apcosoftwaretools.ca](https://apcosoftwaretools.ca)** | Company site. Vite + React, GSAP/Lenis motion, one R3F background, 116-test Playwright suite across Chromium and WebKit. |
 | **[apco-app.pages.dev](https://apco-app.pages.dev)** | Customer app for a recycling depot, installed as a PWA. Real people, real money flow (e-Transfer requests), Worker-backed email. |
 
