@@ -2,9 +2,15 @@
 
 I build and ship production software with AI coding agents as my primary toolset, from a bottle depot in Newfoundland that I also run. Claude Code daily, Codex alongside, several sessions in parallel, split by file ownership, cross-reviewed, and proven with test harnesses where every green check has to show it can go red.
 
-**Now:** [Receipts](https://receipts.alexjpower74.workers.dev): interview transcripts → themes and answers where every claim cites a verbatim quote, or is visibly dropped. Negative-control evals in CI, MCP server. Built in one day by a crew of three Claude Code sessions under rig.
+**Now:** [Receipts](https://receipts.alexjpower74.workers.dev): interview transcripts → themes and answers where every claim cites a verbatim quote, or is visibly dropped. Negative-control evals in CI, MCP server. Built in one day by a crew of three Claude Code sessions.
 
 <a href="https://receipts.alexjpower74.workers.dev"><img src="img/receipts-live.png" width="820" alt="Receipts: themes with verbatim quotes and the Dropped panel"></a>
+
+## Open source
+
+| | |
+|---|---|
+| **[sightline](https://github.com/alexjpower74-create/sightline)** | Audits a small business website the way its owner experiences it and writes two pages: one for the owner, one for the developer. Reports only what it measured, never invents a number, never accuses a working site. MIT licence. |
 
 ## Live
 
@@ -17,7 +23,7 @@ I build and ship production software with AI coding agents as my primary toolset
 | **[rota-app.alexjpower74.workers.dev](https://rota-app.alexjpower74.workers.dev/)** | Rota: who's on this Sunday, for a real church worship team. Personal links instead of passwords, away people can never be assigned, every change stamped with who made it, conflict-safe edits, a notice-board wall and a sound desk. Imported the team's real songs, services and channel list; evals 31 of 31, live round-trip 9 of 9, 68 browser tests on phone and desktop, and the QA journey caught a toast covering a button before anyone saw it. |
 | **[depot-finder-app.alexjpower74.workers.dev](https://depot-finder-app.alexjpower74.workers.dev/)** | Depot Finder: every Green Depot in Newfoundland and Labrador on one map, with hours, phone, open-now in the depot's own time zone, and one headline: every one of them takes beverage containers. 62 rows researched from MMSB's locator, Product Care, EPRA and the depots' own pages, every fact cited with a saved copy of the source, and anything unconfirmed marked Unknown rather than guessed; the app deliberately shows only what is confirmed. Leaflet + a Cloudflare Worker for corrections. Unit and validator 29 of 29, 64 browser tests on phone and desktop. |
 | **[truth-table-app.alexjpower74.workers.dev](https://truth-table-app.alexjpower74.workers.dev/)** | Truth Table: paste an AI's answer and the source it claims to come from; every sentence is marked supported, unsupported or contradicted, and "supported" is only ever granted when the exact words are shown in the source. Server-side quote verification, share links, Workers AI only. Evals: 22 of 22 planted lies caught, 21 of 21 quotes verbatim. |
-| **[sightline.apcosoftwaretools.ca](https://sightline.apcosoftwaretools.ca)** | Sightline Live: the audit engine as a free public page. Type a website address, get a plain-English report on what the site is costing its owner, share the link. A one-at-a-time queue in front of real Chrome on an always-on box behind a Cloudflare Tunnel; never accuses a working site, never invents a number. Built by a crew of four Claude Code sessions under rig. |
+| **[sightline.apcosoftwaretools.ca](https://sightline.apcosoftwaretools.ca)** | Sightline Live: the audit engine as a free public page. Type a website address, get a plain-English report on what the site is costing its owner, share the link. A one-at-a-time queue in front of real Chrome on an always-on box behind a Cloudflare Tunnel; never accuses a working site, never invents a number. Built by a crew of four Claude Code sessions. |
 | **[shop-board.alexjpower74.workers.dev](https://shop-board.alexjpower74.workers.dev)** | Shop Board: a real-time multi-bay appointment board. Durable Object sync, presence, drag and drop with real pointer input, jobs that block their duration per bay, three themes (Cosmic, Classic, Dark), offline queue, PWA. 245 unit tests, 128 browser tests, and an adversarial suite that found six real bugs before release. |
 | **[apcosoftwaretools.ca](https://apcosoftwaretools.ca)** | Company site. Vite + React, GSAP/Lenis motion, one R3F background, 116-test Playwright suite across Chromium and WebKit. |
 | **[apco-recycling.pages.dev](https://apco-recycling.pages.dev)** | APCO Recycling: the depot's site as one WebGL world. The page orbits a branded aluminium can and descends a spine of crushed cans, each section docked onto a glass panel in the scene. R3F, GSAP, Lenis, Blender-built geometry, twelve Playwright harnesses driven with real wheel input across Chromium, WebKit and Firefox, a11y-clean, no-WebGL fallback. Built by four Claude Code sessions in worktrees. |
