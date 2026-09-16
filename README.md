@@ -27,6 +27,7 @@ I build and ship production software with AI coding agents as my primary toolset
 | **[shop-board.alexjpower74.workers.dev](https://shop-board.alexjpower74.workers.dev)** | Shop Board: a real-time multi-bay appointment board. Durable Object sync, presence, drag and drop with real pointer input, jobs that block their duration per bay, three themes (Cosmic, Classic, Dark), offline queue, PWA. 245 unit tests, 128 browser tests, and an adversarial suite that found six real bugs before release. |
 | **[apcosoftwaretools.ca](https://apcosoftwaretools.ca)** | Company site. Vite + React, GSAP/Lenis motion, one R3F background, 116-test Playwright suite across Chromium and WebKit. |
 | **[apco-recycling.pages.dev](https://apco-recycling.pages.dev)** | APCO Recycling: the depot's site as one WebGL world. The page orbits a branded aluminium can and descends a spine of crushed cans, each section docked onto a glass panel in the scene. R3F, GSAP, Lenis, Blender-built geometry, twelve Playwright harnesses driven with real wheel input across Chromium, WebKit and Firefox, a11y-clean, no-WebGL fallback. Built by four Claude Code sessions in worktrees. |
+| **[grants.apcosoftwaretools.ca](https://grants.apcosoftwaretools.ca)** | Grant Match NL. A Newfoundland and Labrador business answers one profile screen and gets the public funding programs that could fit, every eligibility fact quoted word for word from the program's own page, "Unknown" where the page doesn't say. Rules, no model guessing; a weekly Worker re-reads every source page. [Source](https://github.com/alexjpower74-create/grant-match-nl). |
 | **[apco-app.pages.dev](https://apco-app.pages.dev)** | Customer app for a recycling depot, installed as a PWA. Real people, real money flow (e-Transfer requests), Worker-backed email. |
 
 <a href="https://shop-board.alexjpower74.workers.dev"><img src="img/shop-board-live.png" width="820" alt="Shop Board: all bays for one day, jobs spanning their duration"></a>
@@ -42,6 +43,7 @@ I build and ship production software with AI coding agents as my primary toolset
 <p>
   <img src="img/apco-software-tools.png" width="640" alt="apcosoftwaretools.ca hero">
   <img src="img/apco-app.png" width="180" alt="APCO customer app on a phone">
+  <img src="img/grant-match-nl.png" width="180" alt="Grant Match NL on a phone">
 </p>
 
 ## How I work
