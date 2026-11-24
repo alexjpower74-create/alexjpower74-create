@@ -16,7 +16,6 @@ I build software for small businesses in Newfoundland and Labrador, where I also
 | **[Next Up](https://next-up-app.alexjpower74.workers.dev/?p=sample-barber)** | A walk-in queue for any waiting room: join by QR code, with a big wall display. |
 | **[Depot Finder](https://depot-finder-app.alexjpower74.workers.dev/)** | Every Green Depot in Newfoundland and Labrador on one map, with hours, phone and open-now. |
 | **[Grant Match NL](https://grants.apcosoftwaretools.ca)** | Answer one screen about your business and see the public funding programs that could fit. |
-| **[Sightline](https://sightline.apcosoftwaretools.ca)** | Type a website address and get a plain-English report on what the site is costing its owner. |
 | **[Tone Finder](https://tone-finder-app.alexjpower74.workers.dev)** | Type a guitar tone and get amp, cab and starting knob settings for an Axe-Fx II. |
 | **[Daycare Day Sheet](https://daycare-day-sheet.alexjpower74.workers.dev)** | Sign-in, live staff-to-child ratios and daily notes home for a small licensed child care centre. |
 | **[Home Care Visits](https://home-care-visits.alexjpower74.workers.dev)** | Visit schedule, offline check-in and family links for a home support agency. |
